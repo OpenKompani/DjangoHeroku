@@ -1,0 +1,15 @@
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\obj\Debug\attach_server.py
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\obj\Debug\visualstudio_py_repl.py
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\obj\Debug\visualstudio_py_util.py
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\obj\Debug\__init__.py
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\obj\Debug\__main__.py
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\bin\AzureSetup.cfg
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\bin\wfastcgi.py
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\ptvs_virtualenv_proxy.py
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\obj\Debug\web.config
+C:\Users\Herlarby\Documents\Visual Studio 2013\Projects\Python\Django\DjangoForHeroku\DjangoForHeroku\obj\Debug\web.debug.config
